@@ -1,6 +1,6 @@
 # activitygal
 
-This is a student project for ada developers academy, c18 digital. We did not complete the activitypub implementation by code freeze at the end of Monday, 13 Feb 2023.
+This is a student project for Ada Developers Academy, C18 digital. We did not complete the activitypub implementation by code freeze at the end of Monday, 13 Feb 2023.
 
 ## goals
 
@@ -8,7 +8,7 @@ Develop a photography portfolio website software in node/express that implements
 
 ## stack
 
-xpressjs on babel-node, sequelize for database, pug templateing, with htmx for interactivity and server-side rendered fragments. minimal js only on admin ui
+Expressjs on babel-node, sequelize for database, pug templateing, with htmx for interactivity and server-side rendered fragments. minimal js only on admin ui
 
 partial implementation of activitypub with multiple actors managed by a single admin account
 
